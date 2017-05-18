@@ -46,22 +46,22 @@
             this.dataGridView1.ShowCellErrors = false;
             this.dataGridView1.ShowCellToolTips = false;
             this.dataGridView1.ShowEditingIcon = false;
-            this.dataGridView1.Size = new System.Drawing.Size(1071, 343);
+            this.dataGridView1.Size = new System.Drawing.Size(1071, 873);
             this.dataGridView1.TabIndex = 3;
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(0, 349);
+            this.listBox1.Location = new System.Drawing.Point(0, 879);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(1071, 238);
+            this.listBox1.Size = new System.Drawing.Size(1071, 17);
             this.listBox1.TabIndex = 4;
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1071, 901);
+            this.ClientSize = new System.Drawing.Size(1071, 897);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "frmMain";
